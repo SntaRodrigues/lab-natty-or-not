@@ -17,7 +17,7 @@ Um projeto interativo que desafia usuários a identificar quais fotos de perfil 
 5. Hospedei tudo gratuitamente no GitHub Pages
 
 ## 🚀 Resultados
-Jogo disponível em: [(https://github.com/SntaRodrigues/lab-natty-or-not)]
+Jogo disponível em: https://sntarodrigues.github.io/lab-natty-or-not/
 - Interface limpa e intuitiva
 - Reflexão sobre identidade digital
 - Projeto 100% funcional e online
